@@ -102,7 +102,7 @@ L'application utilise une base MySQL appelée `ensah` avec les tables suivantes 
    - ❤️ Santé
 
 ## 👥 Contributeurs
-À compléter avec les noms ou pseudos GitHub des contributeurs.
+Bourabaa
 
 ## 📄 Licence
 Ce projet est sous licence MIT.
